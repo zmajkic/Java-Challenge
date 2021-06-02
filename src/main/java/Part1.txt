@@ -1,0 +1,22 @@
+########################################################
+##### Part 1 – Java Fundamentals / Java Grundlagen #####
+########################################################
+
+Der folgende Java-Code-Snippet funktioniert nicht. Erkläre in wenigen Worten warum.
+
+
+for(final int i = 0; i < 8; i++ ) {    
+    System.out.println( "Geht nicht" );
+}
+
+Antwort:
+Die Variable i wurde mit dem Modifikator "final" gekennzeichnet damit ist sie nicht mehr veränderbar.
+Dies muss Sie jedoch sei,n da sie mit der Funktion ++ in der for Schleife hochgezählt wird.
+Eine Variable die als "final" gekennzeichnet wurde ist somit eine Konstante. 
+
+
+
+
+
+
+
