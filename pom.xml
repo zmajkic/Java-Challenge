@@ -7,7 +7,7 @@
     
     <!-- Das eigentliche Projekt -->
     
-    <groupId>de.telekom.javachallenge</groupId>
+    <groupId>de.telekom.sea.javaChallenge</groupId>
     <artifactId>JavaChallenge</artifactId>
     <version>1.0</version>
     
@@ -26,7 +26,7 @@
                 <configuration>
                 	<archive>
                     	<manifest>
-			      			<mainClass>de.telekom.javachallenge.Main</mainClass>
+			      			<mainClass>de.telekom.sea.javaChallenge.javaFundamentals.Main</mainClass>
                       	</manifest>
                  	</archive>
             	</configuration>
@@ -52,7 +52,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>de.telekom.javachallenge.Main</mainClass>
+							<mainClass>de.telekom.sea.javaChallenge.javaFundamentals.Main</mainClass>
 						</manifest>
 					</archive>
 				</configuration>

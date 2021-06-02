@@ -1,4 +1,4 @@
-package de.telekom.sea.javaChallenge.javaAufgabe;
+package de.telekom.sea.javaChallenge.javaAufgabe3;
 
 public class Main {
 
